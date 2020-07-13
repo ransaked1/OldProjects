@@ -1,0 +1,23 @@
+{
+  "name": "dbraghis2017",
+  "version": "0.0.1",
+  "summary": "Pod for learning purposes in Piscine Swift 42",
+  "description": "TODO: This Pod was created for learning purposes during the Piscine Swift, ecole 42. It implements the class CoreData.",
+  "homepage": "https://github.com/ransaked1/dbraghis2017",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ransaked1": "danbraghis@yahoo.com"
+  },
+  "source": {
+    "git": "https://github.com/ransaked1/dbraghis2017.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "dbraghis2017/Classes/**/*",
+  "frameworks": "CoreData"
+}

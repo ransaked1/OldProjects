@@ -1,0 +1,10 @@
+framework module dbraghis2017 {
+  umbrella header "dbraghis2017-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module dbraghis2017.__Swift {
+    exclude header "dbraghis2017-Swift.h"
+}

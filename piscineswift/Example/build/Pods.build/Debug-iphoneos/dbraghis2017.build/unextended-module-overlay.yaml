@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/ransaked/Desktop/day08/dbraghis2017/Example/build/Debug-iphoneos/dbraghis2017/dbraghis2017.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/ransaked/Desktop/day08/dbraghis2017/Example/build/Pods.build/Debug-iphoneos/dbraghis2017.build/unextended-module.modulemap',
+    }]
+  }]
+}
